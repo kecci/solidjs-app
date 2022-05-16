@@ -1,5 +1,7 @@
 # solidjs-app
 
+![alt](/assets/banner.png)
+
 ## Installation
 ```
 npx degit solidjs/templates/js solidjs-app
